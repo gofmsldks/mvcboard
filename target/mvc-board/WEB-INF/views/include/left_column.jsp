@@ -43,7 +43,7 @@
 
         <!-- Sidebar Menu -->
         <ul class="sidebar-menu" data-widget="tree">
-            <li class="header">테스트 예제</li>
+            <li class="header">메뉴</li>
             <li class="treeview">
                 <a href="#"><i class="fa fa-folder"></i> <span>예제</span>
                     <span class="pull-right-container">
